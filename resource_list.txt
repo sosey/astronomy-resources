@@ -1,0 +1,22 @@
+
+Specific Tutorials:
+http://astroplotlib.stsci.edu/index.html  -plotting tutorials by leonardo
+http://joseph-long.com/writing/AstroPy-boxcar/  -boxcar fitting from Joseph
+https://justincely.github.io/AAS224/lightcurve_tutorial.html - Justin's light curve COS
+https://justincely.github.io/AAS224/timefilter_tutorial.html - Justin's COS tutorial
+
+
+Other resource compilation pages:
+http://www.astropython.org/      -  out of MIT
+http://python4astronomers.github.io/index.html  - Smithsonian
+
+doc page / written modules:
+http://aplpy.github.io/  - plotting module using matplotlib
+https://github.com/sosey/imexam/blob/master/imexam/imexamine.py - megan's imexamine
+
+
+
+
+- astropy docs has tutorial pages, should have a specific link list for these?
+- also, astropy list of convenience functions: http://astropy.readthedocs.org/en/latest/io/fits/api/files.html?highlight=convenience%20functions
+- general astropy doc page: http://docs.astropy.org/en/stable/
