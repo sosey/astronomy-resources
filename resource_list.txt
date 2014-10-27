@@ -1,3 +1,8 @@
+Rather short list, I think we should be able to gather a lot more
+stuff from those other resource compilation pages, and some internet
+poking around.
+
+
 
 Specific Tutorials:
 http://astroplotlib.stsci.edu/index.html  -plotting tutorials by leonardo
@@ -9,14 +14,27 @@ https://justincely.github.io/AAS224/timefilter_tutorial.html - Justin's COS tuto
 Other resource compilation pages:
 http://www.astropython.org/      -  out of MIT
 http://python4astronomers.github.io/index.html  - Smithsonian
+ascl.net    -  Astrophysics Source Code Library, populated by ADS, Kim DuPrie is the associate editor, and wants to know if we have any editions for her
+http://overapi.com/python/      - nice visual of build in modules
+
+
 
 doc page / written modules:
 http://aplpy.github.io/  - plotting module using matplotlib
 https://github.com/sosey/imexam/blob/master/imexam/imexamine.py - megan's imexamine
+http://matplotlib.org/
+http://www.astroml.org/    - data mining, machine learning
+http://pandas.pydata.org/    - time series data
+http://docs.scipy.org/doc/   - numpy/scipy
 
 
+useful blogs, etc.:
+http://jakevdp.github.io/
 
 
 - astropy docs has tutorial pages, should have a specific link list for these?
 - also, astropy list of convenience functions: http://astropy.readthedocs.org/en/latest/io/fits/api/files.html?highlight=convenience%20functions
 - general astropy doc page: http://docs.astropy.org/en/stable/
+
+random:
+http://www-personal.umich.edu/~mejn/cp/chapters/programming.pdf    -textbook chapter
