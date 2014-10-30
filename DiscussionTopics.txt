@@ -1,0 +1,13 @@
+Topics For Discussion:
+
+Take a look at http://www.astropython.org/.  Is this what we're going for?  What do we like/not like about their page?
+-How is their organization?
+-What sections do we want for our page?
+-What is the main focus of our page?  Everything evenly?  Focus on Tutorials?
+
+
+How much "software" carpentry do we want to include?
+
+
+
+How do we want to display this information so that it's easy to sort, read, find what you need?  Something we should start to think about.
